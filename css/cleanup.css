@@ -15,7 +15,7 @@
   display: none;
 }
 /* child combiner */
-/* selects the child div of .parent */
+
 #wall .parent > div {
   display: none;
 }
